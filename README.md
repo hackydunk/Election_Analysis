@@ -19,7 +19,7 @@ The analysis of the election shows:
 
 Total Votes: 369,711
 
-Charles Casper Stockham: 23.0% (85,213)
+Charles Casper Stockham: 23.0% (85,213)\n
 Diana DeGette: 73.8% (272,892)
 Raymon Anthony Doane: 3.1% (11,606)
 
