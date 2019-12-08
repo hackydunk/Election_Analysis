@@ -28,4 +28,13 @@ Winning Vote Count: 272,892
 Winning Percentage: 73.8%
 
 ## Challenge Overview
+The challenge required outputting the vote total and vote percentage for all counties involved in the election.
+
 ## Challenge Summary
+
+County Votes:  
+Jefferson: 10.5% (38,855)  
+Denver: 82.8% (306,055)  
+Arapahoe: 6.7% (24,801)  
+
+Largest County Turnout: Denver
